@@ -69,7 +69,7 @@ button:focus {
     flex-direction: column;
     align-items: flex-end;
     background-color: #1d1b1b;
-    border-radius: 32px;
+    border-radius: 2px;
     text-align: right;
     justify-content: space-between;
     word-break: break-all;
