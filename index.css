@@ -21,7 +21,7 @@ body {
     grid-template-rows: 160px repeat(5, 75px);
     background-color:none;
     padding: 15px;
-    border-radius: 32px;
+    border-radius: 20px;
     box-shadow: 15px 10px 0px 5px #00000033;
 }
 
